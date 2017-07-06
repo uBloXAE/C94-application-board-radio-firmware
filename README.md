@@ -1,5 +1,4 @@
-﻿# CadSoft-Eagle-Library
-Symbols and Footprints for CadSoft Eagle
+﻿# C94 radio firmware
 --------------------------------------------------------------------------------
 
 Copyright (C) u-blox 
